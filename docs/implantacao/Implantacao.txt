@@ -1,0 +1,2 @@
+	A implantanção tem como objetivo realizar a instalação do projeto corretamente para melhor aproveito do todos os componentes. Deve ser verificado os pré-requisitos para o correto funcionamento do projeto. 
+	Essa é a fase final do projeto, antes de ser implementado o projeto tem que ser efetivamente analisado, arquitetado e testado. Sem esses passos, a implementação do projeto não é possivel.  
