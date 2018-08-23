@@ -1,0 +1,2 @@
+ele faz testes de segurança ele testa variaveis testa a segurança de um site.
+ele faz testes para software ele testa a velocidade do programa.
